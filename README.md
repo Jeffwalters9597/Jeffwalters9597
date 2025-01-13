@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeff Walters
 - 👀 I’m interested in blockchain, dag, AI/ML, SSL/TSL, iNFTs, innovation and technology
 - 🌱 I’m currently learning Solidity smart contracts 
-- 💞️ I’m looking to collaborate on ioT/bkockchain/AI integrations
+- 💞️ I’m looking to collaborate on ioT/blockchain/AI integrations
 - 📫 How to reach me jeffwalters9597@gmail.com
 
 
