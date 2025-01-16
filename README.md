@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeff Walters
 - 👀 I’m interested in blockchain, dag, AI/ML, SSL/TSL, iNFTs, innovation and technology
-- 🌱 I’m currently learning Solidity smart contracts 
+- 🌱 I’m currently implementing federated learning models using ZKP tecchnology. 
 - 💞️ I’m looking to collaborate on ioT/blockchain/AI integrations
 - 📫 How to reach me jeffwalters9597@gmail.com
 
